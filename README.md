@@ -1,7 +1,7 @@
 # **MedFeatUp: Medical Imaging Feature Upsampling Framework**  
 *Advanced AI-Powered Resolution Enhancement for Medical Diagnostics*  
 
-![MedFeatUp Banner](https://placeholder.com/1200x400)  
+![MedFeatUp Banner](https://github.com/ridabayi/MedFeatUp-Medical-Imaging-Feature-Upsampling-Framework/blob/main/all_feats.mp4)  
 *Figure: MedFeatUp's impact on feature resolution for medical imaging*  
 
 ---
